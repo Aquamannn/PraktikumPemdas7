@@ -15,5 +15,7 @@ class Mahasisawa{
 }
 
 int main(){
+    Mahasisawa mhs;
+    
 
 }
