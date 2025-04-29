@@ -12,12 +12,15 @@ class Mahasisawa{
         cout << "Nilai :" << nilai << endl;
     }
 
-}
+};
 
 int main(){
     Mahasisawa mhs;
 
     mhs.nim = 2024;
     mhs.nama = "Lirili Larila";
+    mhs.nilai = 80.5;
+
+    mhs.printData();
 
 }
