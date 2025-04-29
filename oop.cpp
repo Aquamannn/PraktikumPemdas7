@@ -18,5 +18,6 @@ int main(){
     Mahasisawa mhs;
 
     mhs.nim = 2024;
+    mhs.nama = "Lirili Larila";
 
 }
