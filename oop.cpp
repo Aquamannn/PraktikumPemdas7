@@ -2,7 +2,7 @@
 using namespace std;
 
 class Mahasisawa{
-
+    public :
 }
 
 int main(){
