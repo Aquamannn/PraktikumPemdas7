@@ -16,6 +16,7 @@ class Mahasisawa{
 
 int main(){
     Mahasisawa mhs;
-    
+
+    mhs.nim = 2024;
 
 }
